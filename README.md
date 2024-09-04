@@ -1,6 +1,6 @@
 # COSC 111 Java Projects
 
-Welcome to my repository for COSC 111! This repository contains all of my projects, assignments, and code snippets for the COSC 111 course. Each project or assignment will have its own directory with relevant files and documentation.
+Welcome to my repository for COSC 111! This repository contains all of my projects, assignments, and code snippets from my COSC 111 course. Each project or assignment will have its own directory with relevant files and documentation.
 
 ## Course Overview
 
